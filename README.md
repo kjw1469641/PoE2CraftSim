@@ -12,6 +12,10 @@ Unzip anywhere and run PoE2CraftSim.exe . Windows only, no installation needed.
 
 This program is free. Donations are completely voluntary and unlock nothing - every feature stays the same for everyone. https://github.com/sponsors/kjw1469641
 
+## Contact
+
+For copyright concerns, bug reports, or feature suggestions, email kjw1469641@gmail.com
+
 ## License and disclaimer
 
 Program code copyright 2026 kjw1469641. Do not modify, redistribute modified versions, or use it commercially without permission.
@@ -33,6 +37,10 @@ Releases 탭에서 최신 버전을 받으세요: https://github.com/kjw1469641/
 ## 후원
 
 무료 프로그램이에요. 후원은 완전히 자발적이고, 후원해도 기능 차이는 전혀 없어요. https://github.com/sponsors/kjw1469641
+
+## 문의
+
+저작권 문제, 버그 제보, 추가되면 좋은 기능 제안은 이메일로 보내 주세요: kjw1469641@gmail.com
 
 ## 라이선스 / 고지
 
