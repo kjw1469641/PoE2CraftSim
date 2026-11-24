@@ -20,6 +20,8 @@ For copyright concerns, bug reports, or feature suggestions, email kjw1469641@gm
 
 Program code copyright 2026 kjw1469641. Do not modify, redistribute modified versions, or use it commercially without permission.
 
+Source-available: the code is public to read, but modifying, redistributing modified versions, or commercial use require permission (this is not an open-source license).
+
 Path of Exile 2 and its in-game art, sounds, names and data belong to Grinding Gear Games. This product isn't affiliated with or endorsed by Grinding Gear Games in any way.
 
 ---
@@ -45,5 +47,7 @@ Releases 탭에서 최신 버전을 받으세요: https://github.com/kjw1469641/
 ## 라이선스 / 고지
 
 프로그램 코드 저작권 2026 kjw1469641. 허락 없이 수정, 수정본 재배포, 상업적 이용을 하지 마세요.
+
+소스 공개형(source-available): 코드는 공개돼 열람할 수 있지만, 수정·수정본 재배포·상업적 이용은 허가가 필요합니다 (오픈소스 라이선스가 아닙니다).
 
 Path of Exile 2 와 게임 속 그림, 소리, 이름, 데이터의 권리는 Grinding Gear Games 에 있어요. This product isn't affiliated with or endorsed by Grinding Gear Games in any way.
